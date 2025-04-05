@@ -36,7 +36,7 @@ projeto-ibama/
 1. Clone este repositório:
 
 ```bash
-git clone <URL do seu repositório>
+git clone <URL>
 ```
 
 2. Instale as dependências necessárias:
