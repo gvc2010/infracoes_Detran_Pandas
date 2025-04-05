@@ -36,7 +36,7 @@ projeto-ibama/
 1. Clone este repositório:
 
 ```bash
-git clone <URL>
+git clone <https://github.com/gvc2010/infracoes_Detran_Pandas.git>
 ```
 
 2. Instale as dependências necessárias:
