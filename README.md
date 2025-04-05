@@ -49,9 +49,9 @@ pip install pandas matplotlib
 
 ## 📝 Autor
 
-- **Seu Nome**
-- [Seu GitHub](https://github.com/seuperfil)
-- [LinkedIn](https://linkedin.com/in/seuperfil)
+- **Guilherme Venturini de Castro**
+- [GitHub](https://github.com/gvc2010)
+- [LinkedIn](https://www.linkedin.com/in/guilherme-venturini-castro/)
 
 ---
 
